@@ -24,7 +24,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: none
-    has_border: true
+    has_border: false
   - type: grid_section
     title: 'Read by marketers at:'
     grid_items:
