@@ -218,7 +218,7 @@ sections:
     grid_gap_horiz: medium
     align: center
     background_color: primary
-    background_image: images/background.jpg
+    background_image: /images/background-2.jpg
     background_image_opacity: 10
     background_image_size: cover
     background_image_repeat: no-repeat
